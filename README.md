@@ -4,7 +4,7 @@
 
 **About me**
 
-🎯 Desenvolvedor Front End | Apaixonado por tecnologia e soluções inteligentes.
+🎯 Desenvolvedor Full Stack | Apaixonado por tecnologia e soluções inteligentes.
 <br>
 👨‍💻 Explorando o ecossistema JavaScript (Node.js, React) e apaixonado por aprender novas tecnologias.
 <br>
