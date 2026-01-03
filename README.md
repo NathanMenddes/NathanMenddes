@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 Estudante de Engenharia de Software | Full - Stack em formação | Apaixonado por tecnologia e soluções inteligentes.<br>👨‍💻 Explorando o ecossistema JavaScript (Node.js, React) e apaixonado por aprender novas tecnologias.<br>🚀 Focado em construir aplicações escaláveis, limpas e com código de qualidade.<br>💡 Acredito no poder do open source e da colaboração para transformar ideias em impacto real.<br>📚 Sempre em evolução — novos desafios são sempre bem-vindos!
+🎯 Estudante de Engenharia de Software | Desenvolvedor Full Stack em formação | Apaixonado por tecnologia e soluções inteligentes.<br>👨‍💻 Explorando o ecossistema JavaScript (Node.js, React) e apaixonado por aprender novas tecnologias.<br>🚀 Focado em construir aplicações escaláveis, limpas e com código de qualidade.<br>💡 Acredito no poder do open source e da colaboração para transformar ideias em impacto real.<br>📚 Sempre em evolução — novos desafios são sempre bem-vindos!
 
 
 ## 🌐 Socials:
